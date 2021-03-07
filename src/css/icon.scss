@@ -1,0 +1,768 @@
+@font-face {
+  font-family: "csgo-icons";
+  src: url("~assets/fonts/csgo-icons.eot?m5r6vl");
+  src: url("~assets/fonts/csgo-icons.eot?m5r6vl#iefix")
+      format("embedded-opentype"),
+    url("~assets/fonts/csgo-icons.ttf?m5r6vl") format("truetype"),
+    url("~assets/fonts/csgo-icons.woff?m5r6vl") format("woff"),
+    url("~assets/fonts/csgo-icons.svg?m5r6vl#csgo-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="csgo-"],
+[class*=" csgo-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "csgo-icons" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.csgo-ak47:before {
+  content: "\e900";
+  color: #fff;
+}
+.csgo-ammobox:before {
+  content: "\e901";
+  color: #fff;
+}
+.csgo-ammobox_threepack:before {
+  content: "\e902";
+  color: #fff;
+}
+.csgo-armor:before {
+  content: "\e903";
+  color: #fff;
+}
+.csgo-armor_helmet:before {
+  content: "\e904";
+  color: #fff;
+}
+.csgo-assaultsuit:before {
+  content: "\e905";
+  color: #fff;
+}
+.csgo-aug:before {
+  content: "\e906";
+  color: #fff;
+}
+.csgo-awp:before {
+  content: "\e907";
+  color: #fff;
+}
+.csgo-axe:before {
+  content: "\e908";
+  color: #fff;
+}
+.csgo-bayonet:before {
+  content: "\e909";
+  color: #fff;
+}
+.csgo-bizon:before {
+  content: "\e90a";
+  color: #fff;
+}
+.csgo-blindkill:before {
+  content: "\e90b";
+  color: #fff;
+}
+.csgo-breachcharge_projectile:before {
+  content: "\e90d";
+  color: #fff;
+}
+.csgo-bumpmine .path1:before {
+  content: "\e90e";
+  color: rgb(255, 255, 255);
+}
+.csgo-bumpmine .path2:before {
+  content: "\e90f";
+  margin-left: -1.005859375em;
+  color: rgb(153, 153, 153);
+}
+.csgo-bumpmine .path3:before {
+  content: "\e910";
+  margin-left: -1.005859375em;
+  color: rgb(204, 204, 204);
+}
+.csgo-c4 .path1:before {
+  content: "\e911";
+  color: rgb(255, 255, 255);
+  opacity: 0.4;
+}
+.csgo-c4 .path2:before {
+  content: "\e912";
+  margin-left: -0.6201171875em;
+  color: rgb(255, 255, 255);
+}
+.csgo-c4 .path3:before {
+  content: "\e913";
+  margin-left: -0.6201171875em;
+  color: rgb(255, 255, 255);
+}
+.csgo-c4 .path4:before {
+  content: "\e914";
+  margin-left: -0.6201171875em;
+  color: rgb(255, 255, 255);
+}
+.csgo-controldrone:before {
+  content: "\e915";
+  color: #fff;
+}
+.csgo-cz75a:before {
+  content: "\e916";
+  color: #fff;
+}
+.csgo-deagle:before {
+  content: "\e917";
+  color: #fff;
+}
+.csgo-decoy .path1:before {
+  content: "\e918";
+  color: rgb(255, 255, 255);
+}
+.csgo-decoy .path2:before {
+  content: "\e919";
+  margin-left: -0.75em;
+  color: rgb(255, 255, 255);
+  opacity: 0.851;
+}
+.csgo-defuser:before {
+  content: "\e91a";
+  color: #fff;
+}
+.csgo-diversion .path1:before {
+  content: "\e91b";
+  color: rgb(255, 255, 255);
+}
+.csgo-diversion .path2:before {
+  content: "\e91c";
+  margin-left: -0.75em;
+  color: rgb(255, 255, 255);
+  opacity: 0.851;
+}
+.csgo-domination:before {
+  content: "\e91d";
+  color: #fff;
+}
+.csgo-dronegun:before {
+  content: "\e91e";
+  color: #fff;
+}
+.csgo-elite:before {
+  content: "\e91f";
+  color: #fff;
+}
+.csgo-famas:before {
+  content: "\e920";
+  color: #fff;
+}
+.csgo-firebomb .path1:before {
+  content: "\e921";
+  color: rgb(255, 255, 255);
+  opacity: 0.6;
+}
+.csgo-firebomb .path2:before {
+  content: "\e922";
+  margin-left: -0.5888671875em;
+  color: rgb(255, 255, 255);
+}
+.csgo-fists .path1:before {
+  content: "\e923";
+  color: rgb(255, 255, 255);
+}
+.csgo-fists .path2:before {
+  content: "\e924";
+  margin-left: -0.8505859375em;
+  color: rgb(216, 217, 216);
+}
+.csgo-fists .path3:before {
+  content: "\e925";
+  margin-left: -0.8505859375em;
+  color: rgb(140, 140, 140);
+}
+.csgo-fists .path4:before {
+  content: "\e926";
+  margin-left: -0.8505859375em;
+  color: rgb(140, 140, 140);
+}
+.csgo-fists .path5:before {
+  content: "\e927";
+  margin-left: -0.8505859375em;
+  color: rgb(255, 255, 255);
+}
+.csgo-fists .path6:before {
+  content: "\e928";
+  margin-left: -0.8505859375em;
+  color: rgb(255, 255, 255);
+}
+.csgo-fists .path7:before {
+  content: "\e929";
+  margin-left: -0.8505859375em;
+  color: rgb(255, 255, 255);
+}
+.csgo-fists .path8:before {
+  content: "\e92a";
+  margin-left: -0.8505859375em;
+  color: rgb(255, 255, 255);
+}
+.csgo-fiveseven:before {
+  content: "\e92b";
+  color: #fff;
+}
+.csgo-flashbang .path1:before {
+  content: "\e92c";
+  color: rgb(255, 255, 255);
+  opacity: 0.302;
+}
+.csgo-flashbang .path2:before {
+  content: "\e92d";
+  margin-left: -0.7958984375em;
+  color: rgb(255, 255, 255);
+}
+.csgo-flashbang_assist:before {
+  content: "\e92e";
+  color: #fff;
+}
+.csgo-frag_grenade:before {
+  content: "\e92f";
+  color: #fff;
+}
+.csgo-g3sg1:before {
+  content: "\e930";
+  color: #fff;
+}
+.csgo-galilar:before {
+  content: "\e931";
+  color: #fff;
+}
+.csgo-glock:before {
+  content: "\e932";
+  color: #fff;
+}
+.csgo-grenadepack .path1:before {
+  content: "\e933";
+  color: rgb(255, 255, 255);
+  opacity: 0.302;
+}
+.csgo-grenadepack .path2:before {
+  content: "\e934";
+  margin-left: -1.1708984375em;
+  color: rgb(255, 255, 255);
+}
+.csgo-grenadepack .path3:before {
+  content: "\e935";
+  margin-left: -1.1708984375em;
+  color: rgb(255, 255, 255);
+}
+.csgo-grenadepack .path4:before {
+  content: "\e936";
+  margin-left: -1.1708984375em;
+  color: rgb(255, 255, 255);
+}
+.csgo-grenadepack .path5:before {
+  content: "\e937";
+  margin-left: -1.1708984375em;
+  color: rgb(255, 255, 255);
+  opacity: 0.851;
+}
+.csgo-grenadepack2 .path1:before {
+  content: "\e938";
+  color: rgb(255, 255, 255);
+}
+.csgo-grenadepack2 .path2:before {
+  content: "\e939";
+  margin-left: -0.9970703125em;
+  color: rgb(255, 255, 255);
+  opacity: 0.6;
+}
+.csgo-grenadepack2 .path3:before {
+  content: "\e93a";
+  margin-left: -0.9970703125em;
+  color: rgb(255, 255, 255);
+}
+.csgo-hammer:before {
+  content: "\e93b";
+  color: #fff;
+}
+.csgo-headshot:before {
+  content: "\e93c";
+  color: #fff;
+}
+.csgo-heavy_armor:before {
+  content: "\e93e";
+  color: #fff;
+}
+.csgo-hegrenade:before {
+  content: "\e93f";
+  color: #fff;
+}
+.csgo-helmet:before {
+  content: "\e940";
+  color: #fff;
+}
+.csgo-hkp2000:before {
+  content: "\e941";
+  color: #fff;
+}
+.csgo-incgrenade:before {
+  content: "\e942";
+  color: #fff;
+}
+.csgo-inferno:before {
+  content: "\e943";
+  color: #fff;
+}
+.csgo-jumpkill:before {
+  content: "\e944";
+  color: #fff;
+}
+.csgo-kevlar:before {
+  content: "\e945";
+  color: #fff;
+}
+.csgo-kill360 .path1:before {
+  content: "\e946";
+  color: rgb(255, 255, 255);
+}
+.csgo-kill360 .path2:before {
+  content: "\e947";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.csgo-kill360 .path3:before {
+  content: "\e948";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.csgo-kill360 .path4:before {
+  content: "\e949";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.csgo-kill360 .path5:before {
+  content: "\e94a";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.csgo-kill360 .path6:before {
+  content: "\e94b";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+  opacity: 0.95;
+}
+.csgo-knife:before {
+  content: "\e94c";
+  color: #fff;
+}
+.csgo-knife_bowie:before {
+  content: "\e94d";
+  color: #fff;
+}
+.csgo-knife_butterfly:before {
+  content: "\e94e";
+  color: #fff;
+}
+.csgo-knife_canis:before {
+  content: "\e94f";
+  color: #fff;
+}
+.csgo-knife_cord:before {
+  content: "\e950";
+  color: #fff;
+}
+.csgo-knife_css:before {
+  content: "\e951";
+  color: #fff;
+}
+.csgo-knife_falchion:before {
+  content: "\e952";
+  color: #fff;
+}
+.csgo-knife_flip:before {
+  content: "\e953";
+  color: #fff;
+}
+.csgo-knife_gut:before {
+  content: "\e954";
+  color: #fff;
+}
+.csgo-knife_gypsy_jackknife:before {
+  content: "\e955";
+  color: #fff;
+}
+.csgo-knife_karambit:before {
+  content: "\e956";
+  color: #fff;
+}
+.csgo-knife_m9_bayonet:before {
+  content: "\e957";
+  color: #fff;
+}
+.csgo-knife_outdoor:before {
+  content: "\e958";
+  color: #fff;
+}
+.csgo-knife_push:before {
+  content: "\e959";
+  color: #fff;
+}
+.csgo-knife_skeleton:before {
+  content: "\e95a";
+  color: #fff;
+}
+.csgo-knife_stiletto:before {
+  content: "\e95b";
+  color: #fff;
+}
+.csgo-knife_survival_bowie:before {
+  content: "\e95c";
+  color: #fff;
+}
+.csgo-knife_t:before {
+  content: "\e95d";
+  color: #fff;
+}
+.csgo-knife_tactical:before {
+  content: "\e95e";
+  color: #fff;
+}
+.csgo-knife_ursus:before {
+  content: "\e95f";
+  color: #fff;
+}
+.csgo-knife_widowmaker:before {
+  content: "\e960";
+  color: #fff;
+}
+.csgo-knifegg:before {
+  content: "\e961";
+  color: #fff;
+}
+.csgo-m4a1:before {
+  content: "\e962";
+  color: #fff;
+}
+.csgo-m4a1_silencer:before {
+  content: "\e963";
+  color: #fff;
+}
+.csgo-m4a1_silencer_off:before {
+  content: "\e964";
+  color: #fff;
+}
+.csgo-m249:before {
+  content: "\e965";
+  color: #fff;
+}
+.csgo-mac10:before {
+  content: "\e966";
+  color: #fff;
+}
+.csgo-mag7:before {
+  content: "\e967";
+  color: #fff;
+}
+.csgo-molotov .path1:before {
+  content: "\e968";
+  color: rgb(255, 255, 255);
+  opacity: 0.6;
+}
+.csgo-molotov .path2:before {
+  content: "\e969";
+  margin-left: -0.5888671875em;
+  color: rgb(255, 255, 255);
+}
+.csgo-mp5sd:before {
+  content: "\e96a";
+  color: #fff;
+}
+.csgo-mp7:before {
+  content: "\e96b";
+  color: #fff;
+}
+.csgo-mp9:before {
+  content: "\e96c";
+  color: #fff;
+}
+.csgo-negev:before {
+  content: "\e96d";
+  color: #fff;
+}
+.csgo-noscope:before {
+  content: "\e96e";
+  color: #fff;
+}
+.csgo-nova:before {
+  content: "\e96f";
+  color: #fff;
+}
+.csgo-p90:before {
+  content: "\e970";
+  color: #fff;
+}
+.csgo-p250:before {
+  content: "\e971";
+  color: #fff;
+}
+.csgo-p2000:before {
+  content: "\e972";
+  color: #fff;
+}
+.csgo-penetrate:before {
+  content: "\e973";
+  color: #fff;
+}
+.csgo-planted_c4_survival:before {
+  content: "\e974";
+  color: #fff;
+}
+.csgo-prop_exploding_barrel:before {
+  content: "\e975";
+  color: #fff;
+}
+.csgo-radarjammer:before {
+  content: "\e976";
+  color: #fff;
+}
+.csgo-revenge .path1:before {
+  content: "\e977";
+  color: rgb(255, 255, 255);
+  opacity: 0.4;
+}
+.csgo-revenge .path2:before {
+  content: "\e978";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.csgo-revenge .path3:before {
+  content: "\e979";
+  margin-left: -1em;
+  color: rgb(216, 217, 216);
+  opacity: 0.8;
+}
+.csgo-revenge .path4:before {
+  content: "\e97a";
+  margin-left: -1em;
+  color: rgb(140, 140, 140);
+}
+.csgo-revenge .path5:before {
+  content: "\e97b";
+  margin-left: -1em;
+  color: rgb(140, 140, 140);
+}
+.csgo-revenge .path6:before {
+  content: "\e97c";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.csgo-revenge .path7:before {
+  content: "\e97d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.csgo-revenge .path8:before {
+  content: "\e97e";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.csgo-revenge .path9:before {
+  content: "\e97f";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.csgo-revenge .path10:before {
+  content: "\e980";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.csgo-revolver:before {
+  content: "\e981";
+  color: #fff;
+}
+.csgo-sawedoff:before {
+  content: "\e982";
+  color: #fff;
+}
+.csgo-scar20:before {
+  content: "\e983";
+  color: #fff;
+}
+.csgo-sg556:before {
+  content: "\e984";
+  color: #fff;
+}
+.csgo-shield:before {
+  content: "\e985";
+  color: #fff;
+}
+.csgo-smokegrenade:before {
+  content: "\e986";
+  color: #fff;
+}
+.csgo-smokegrenade_impact .path1:before {
+  content: "\e987";
+  color: rgb(255, 255, 255);
+}
+.csgo-smokegrenade_impact .path2:before {
+  content: "\e988";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.csgo-smokegrenade_impact .path3:before {
+  content: "\e989";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.csgo-smokegrenade_impact .path4:before {
+  content: "\e98a";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+  opacity: 0.5;
+}
+.csgo-smokegrenade_impact .path5:before {
+  content: "\e98b";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+  opacity: 0.5;
+}
+.csgo-smokegrenade_impact .path6:before {
+  content: "\e98c";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+  opacity: 0.5;
+}
+.csgo-smokegrenade_impact .path7:before {
+  content: "\e98d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+  opacity: 0.5;
+}
+.csgo-smokegrenade_impact .path8:before {
+  content: "\e98e";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+  opacity: 0.5;
+}
+.csgo-snowball:before {
+  content: "\e98f";
+  color: #fff;
+}
+.csgo-spanner:before {
+  content: "\e990";
+  color: #fff;
+}
+.csgo-ssg08:before {
+  content: "\e991";
+  color: #fff;
+}
+.csgo-stomp_damage .path1:before {
+  content: "\e992";
+  color: rgb(229, 229, 229);
+}
+.csgo-stomp_damage .path2:before {
+  content: "\e993";
+  margin-left: -1.5146484375em;
+  color: rgb(204, 204, 204);
+}
+.csgo-stomp_damage .path3:before {
+  content: "\e994";
+  margin-left: -1.5146484375em;
+  color: rgb(255, 255, 255);
+}
+.csgo-tablet:before {
+  content: "\e996";
+  color: #fff;
+}
+.csgo-tagrenade .path1:before {
+  content: "\e997";
+  color: rgb(255, 255, 255);
+  opacity: 0.9961;
+}
+.csgo-tagrenade .path2:before {
+  content: "\e998";
+  margin-left: -0.6025390625em;
+  color: rgb(255, 255, 255);
+  opacity: 0.9804;
+}
+.csgo-tagrenade .path3:before {
+  content: "\e999";
+  margin-left: -0.6025390625em;
+  color: rgb(255, 255, 255);
+}
+.csgo-taser:before {
+  content: "\e99a";
+  color: #fff;
+}
+.csgo-tec9:before {
+  content: "\e99b";
+  color: #fff;
+}
+.csgo-throughsmoke .path1:before {
+  content: "\e99c";
+  color: rgb(255, 255, 255);
+  opacity: 0.5;
+}
+.csgo-throughsmoke .path2:before {
+  content: "\e99d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.csgo-throughsmoke .path3:before {
+  content: "\e99e";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.csgo-throughsmoke .path4:before {
+  content: "\e99f";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.csgo-throughsmoke .path5:before {
+  content: "\e9a0";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.csgo-throughsmoke .path6:before {
+  content: "\e9a1";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.csgo-throughsmoke .path7:before {
+  content: "\e9a2";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.csgo-throughsmoke .path8:before {
+  content: "\e9a3";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.csgo-ump45:before {
+  content: "\e9a4";
+  color: #fff;
+}
+.csgo-usp_silencer:before {
+  content: "\e9a5";
+  color: #fff;
+}
+.csgo-usp_silencer_off:before {
+  content: "\e9a6";
+  color: #fff;
+}
+.csgo-xm1014:before {
+  content: "\e9a7";
+  color: #fff;
+}
+.csgo-zone_repulsor:before {
+  content: "\e9a8";
+  color: #fff;
+}

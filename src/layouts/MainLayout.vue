@@ -10,14 +10,14 @@
         </q-toolbar-title>
         <q-tabs align="left" class="one-font-color">
           <q-route-tab to="/" label="主页" />
-          <!-- <q-route-tab to="/deathnotice" label="击杀生成" /> -->
+          <q-route-tab to="/deathnotice" label="击杀生成" />
           <q-route-tab to="/crosshair" label="准星生成" />
           <q-route-tab to="/other" label="其他" />
         </q-tabs>
         <q-btn flat round dense icon="whatshot" />
       </q-toolbar>
     </q-header>
-    <q-footer class="one-bar-color">
+    <q-footer class="one-bar-color q-mb-md">
       <div class="footer">
         <span style="margin:auto" class="one-font-color">
           - Powered by <a href="https://github.com/One-Studio">One Studio</a> -
@@ -92,6 +92,6 @@ export default {
   clear: both;
   text-align: center;
   vertical-align: middle;
-  margin: 30px auto 30px auto;
+  // margin: 30px auto 30px auto;
 }
 </style>
